@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Griffin",
+    "age": 99,
+    "address": {
+        "street": "Holly Mills",
+        "city": "New Jordan",
+        "state": "Michigan",
+        "zip": "24320"
+    },
+    "contact": {
+        "phone": "001-450-938-8040x72726",
+        "servicePhone": "800955568"
+    },
+    "birthday": "1926-03-05",
+    "ip": "122.22.239.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Sell last among by generation. Pressure way more concern professor line travel possible.\nForget available start happen. Address step there prepare so federal manager. Minute involve buy source.",
+        "bio": "Trouble impact cause election somebody. Worker inside possible something cover. Attorney sound data blood.\nMiddle politics follow plan various. Than idea usually left so."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}

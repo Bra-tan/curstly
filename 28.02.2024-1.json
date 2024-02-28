@@ -1,0 +1,25 @@
+{
+    "name": "James Perez",
+    "age": 50,
+    "address": {
+        "street": "Bryant Road",
+        "city": "South Markshire",
+        "state": "Minnesota",
+        "zip": "59892"
+    },
+    "contact": {
+        "phone": "+1-260-709-9676x659",
+        "servicePhone": "800006284"
+    },
+    "birthday": "1975-09-10",
+    "ip": "203.60.204.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Line create entire capital large attorney. Marriage week garden itself. Product west evidence difficult culture.",
+        "bio": "Majority charge cell treat hour short hope people. Training explain single."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

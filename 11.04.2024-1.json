@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Johnson",
+    "age": 54,
+    "address": {
+        "street": "Joseph Islands",
+        "city": "North David",
+        "state": "Ohio",
+        "zip": "13426"
+    },
+    "contact": {
+        "phone": "001-892-596-8823",
+        "servicePhone": "800156292"
+    },
+    "birthday": "1971-08-02",
+    "ip": "109.18.1.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal citizen show avoid artist. Picture not career. Collection her Democrat part according our rock.\nFirm risk into ok evening mission think. Owner pick through financial own place.",
+        "bio": "Without similar choice station. Reach thing religious travel bar its team.\nOwn science new degree civil tonight opportunity center. Few sea tend."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

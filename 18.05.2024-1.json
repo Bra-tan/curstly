@@ -1,0 +1,25 @@
+{
+    "name": "Shane Andrews",
+    "age": 42,
+    "address": {
+        "street": "Sarah Stream",
+        "city": "Grahamborough",
+        "state": "Massachusetts",
+        "zip": "24094"
+    },
+    "contact": {
+        "phone": "+1-604-481-7316x1759",
+        "servicePhone": "800813387"
+    },
+    "birthday": "1983-02-07",
+    "ip": "42.23.126.241",
+    "foo": "bar",
+    "profile": {
+        "about": "That enjoy girl late. Fast site our heavy. Until certain bit take with feeling result.",
+        "bio": "Institution half name successful stock. Issue teach management anything bad talk."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

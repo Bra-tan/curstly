@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Cabrera",
+    "age": 76,
+    "address": {
+        "street": "King Spurs",
+        "city": "Port Andre",
+        "state": "Idaho",
+        "zip": "11075"
+    },
+    "contact": {
+        "phone": "335.749.7719x44306",
+        "servicePhone": "800739062"
+    },
+    "birthday": "1949-15-05",
+    "ip": "43.75.57.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Him friend break wind south glass. Of policy pattern eye easy eye both. Couple dark never most them education let wonder.",
+        "bio": "Finally miss effect message. Respond student bill clearly information. Yes country teach assume early blood work put."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}

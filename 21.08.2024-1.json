@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Davis",
+    "age": 96,
+    "address": {
+        "street": "Bryan Drives",
+        "city": "Leonardport",
+        "state": "North Dakota",
+        "zip": "14385"
+    },
+    "contact": {
+        "phone": "699-785-3367x855",
+        "servicePhone": "800526708"
+    },
+    "birthday": "1929-02-02",
+    "ip": "110.230.195.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic fund party first prove.\nCup single they will happen. Business themselves school put reveal parent only.",
+        "bio": "Course same whole paper we most go.\nSize ask street rather during own out radio. Popular represent most finally again game."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

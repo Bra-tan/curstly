@@ -1,0 +1,25 @@
+{
+    "name": "Richard Wright",
+    "age": 54,
+    "address": {
+        "street": "Coleman Mountain",
+        "city": "Lake Catherineton",
+        "state": "New Mexico",
+        "zip": "63457"
+    },
+    "contact": {
+        "phone": "227-377-6038x97791",
+        "servicePhone": "800737405"
+    },
+    "birthday": "1971-13-01",
+    "ip": "91.22.120.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Else certainly customer hope add. Hospital already later fight again piece different. Skin after capital policy under close television.",
+        "bio": "Least yet information necessary. Often everybody ground tough. Soldier finish far you detail wait reveal."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

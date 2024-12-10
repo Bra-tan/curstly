@@ -1,0 +1,25 @@
+{
+    "name": "Kent Matthews",
+    "age": 41,
+    "address": {
+        "street": "Smith Union",
+        "city": "Zacharyton",
+        "state": "Colorado",
+        "zip": "61138"
+    },
+    "contact": {
+        "phone": "673-569-9684",
+        "servicePhone": "800839449"
+    },
+    "birthday": "1984-24-12",
+    "ip": "151.71.159.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Member account everything total relate campaign great. Compare pick sing nor military any. Black all like board media trial painting.",
+        "bio": "Hundred sea enough else carry Democrat lawyer. Almost every night against.\nOver throughout party mind represent."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

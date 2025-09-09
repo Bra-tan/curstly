@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Zamora",
+    "age": 90,
+    "address": {
+        "street": "Adams Viaduct",
+        "city": "Banksfort",
+        "state": "Utah",
+        "zip": "06907"
+    },
+    "contact": {
+        "phone": "(460)538-2890",
+        "servicePhone": "800632165"
+    },
+    "birthday": "1935-09-06",
+    "ip": "150.172.111.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Development change prevent myself billion activity. Event so toward.\nSeem total simply forget deal stop. Run bank term article baby case. Available help listen them attack big chance smile.",
+        "bio": "What put industry baby color. Energy probably actually long morning. Meeting card situation bank ability drive."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Vanessa Stafford",
+    "age": 3,
+    "address": {
+        "street": "Morales Cape",
+        "city": "Ryanmouth",
+        "state": "New Jersey",
+        "zip": "12737"
+    },
+    "contact": {
+        "phone": "764.577.0604x5233",
+        "servicePhone": "800018672"
+    },
+    "birthday": "2022-30-06",
+    "ip": "120.249.181.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply painting risk while majority ability almost. Key area do must score soldier conference big. Will figure interesting.",
+        "bio": "Husband degree agreement able civil onto when game. Trial author source trial almost."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}

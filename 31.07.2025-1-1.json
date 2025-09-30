@@ -1,0 +1,25 @@
+{
+    "name": "Jason Lee",
+    "age": 99,
+    "address": {
+        "street": "Lutz Divide",
+        "city": "West Sherryhaven",
+        "state": "North Carolina",
+        "zip": "72791"
+    },
+    "contact": {
+        "phone": "306-387-3030x251",
+        "servicePhone": "800963625"
+    },
+    "birthday": "1926-27-07",
+    "ip": "123.141.218.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea kid add seek north ever level. Begin trade ahead.\nNote sell wall seem forget. Affect no suffer push clearly ask staff.\nHope sport could free rather. Single actually of.",
+        "bio": "Only color tend Republican suggest. Energy science ago however. How she piece bag community form fill. Service every do represent."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

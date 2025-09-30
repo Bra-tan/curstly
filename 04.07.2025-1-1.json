@@ -1,0 +1,25 @@
+{
+    "name": "Shelia Gallagher",
+    "age": 44,
+    "address": {
+        "street": "Brandi Vista",
+        "city": "Cooperton",
+        "state": "North Dakota",
+        "zip": "11540"
+    },
+    "contact": {
+        "phone": "2109286493",
+        "servicePhone": "800941785"
+    },
+    "birthday": "1981-25-03",
+    "ip": "190.72.221.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy eight husband set begin eye eye. Impact work fact politics little.\nOption very economic enter. Experience floor listen particularly when. Rule security onto us father foreign wife.",
+        "bio": "Claim method well spend. Usually successful group talk source fine.\nFast far character court military page station. Article see town side away analysis. Standard never from score feel main."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Caleb Kelly",
+    "age": 93,
+    "address": {
+        "street": "Hall Port",
+        "city": "Staceymouth",
+        "state": "Mississippi",
+        "zip": "40885"
+    },
+    "contact": {
+        "phone": "001-735-666-6233",
+        "servicePhone": "800806231"
+    },
+    "birthday": "1932-26-09",
+    "ip": "64.237.16.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip notice around about rate. Want avoid few example.\nBreak television nor decision prepare laugh.\nContinue court west them age. North first alone end establish.",
+        "bio": "Billion yourself store policy.\nParticipant east north huge eight Democrat. Current defense shoulder pull. Type consumer name much wait charge to."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}

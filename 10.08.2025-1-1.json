@@ -1,0 +1,25 @@
+{
+    "name": "Jose Williams",
+    "age": 24,
+    "address": {
+        "street": "Weber Dam",
+        "city": "New Monicaton",
+        "state": "South Carolina",
+        "zip": "64365"
+    },
+    "contact": {
+        "phone": "001-756-606-5458x31089",
+        "servicePhone": "800457046"
+    },
+    "birthday": "2001-20-04",
+    "ip": "101.175.181.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional analysis until degree theory seven contain. Provide attention carry quality data subject.",
+        "bio": "Away company crime always. Near eat a upon century about let hundred.\nConcern behind suffer view. Case care training laugh so child no. Hand into trouble year recognize seven."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
